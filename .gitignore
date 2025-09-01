@@ -48,5 +48,5 @@ app.*.map.json
 functions/node_modules/
 **/node_modules/
 
-# Environment variables
-.env
+# Environment variables - commented out to include in private repo
+# .env
