@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412580495489",
+    "project_id": "captain-truck-242e5",
+    "storage_bucket": "captain-truck-242e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412580495489:android:a1242e7f4559b40f59cd80",
+        "android_client_info": {
+          "package_name": "com.captaintruck.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYXeXjwX-Jtf6DBukw3VVx6gEck-nplA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412580495489:android:a081c8cea1fe6f8559cd80",
+        "android_client_info": {
+          "package_name": "com.captaintruck.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYXeXjwX-Jtf6DBukw3VVx6gEck-nplA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
